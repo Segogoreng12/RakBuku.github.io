@@ -1,0 +1,17 @@
+h1 {
+	font-variant: small-caps;
+	font-size: 60px;
+	text-transform: capitalize;
+}
+p {
+	text-transform: capitalize;
+
+}
+body {
+	background-color: green;
+	background-image: url("gambar/bgd.jpg");
+}
+table {
+	color: black;
+	background-color: transparent;
+	font-family: arial;
